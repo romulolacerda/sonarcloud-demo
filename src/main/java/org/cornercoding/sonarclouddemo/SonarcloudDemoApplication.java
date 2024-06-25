@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SonarcloudDemoApplication {
 
 	public static void main(String[] args) {
+		String numero = 3;
 		SpringApplication.run(SonarcloudDemoApplication.class, args);
 	}
 }
